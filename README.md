@@ -1,18 +1,45 @@
-﻿# Basic HTML FreeCodeCamp Exercises / تمرینات HTML پایه FreeCodeCamp
+﻿# Basic HTML – FreeCodeCamp
 
-این ریپوزیتوری شامل تمرینات **Basic HTML** من از FreeCodeCamp است.  
-This repository contains my Basic HTML exercises from FreeCodeCamp.
+This repository contains my **Basic HTML exercises from FreeCodeCamp**.  
+The goal of this project is to practice HTML fundamentals and build a solid foundation for web development.
 
-## فایل‌ها / Files
+## Files
 
-- **index.html** → صفحه اصلی پروژه / Main page of the project, includes Full Stack Curriculum and basic HTML, CSS, and JavaScript introduction.  
-- **camperbot.html** → پروژه دوم Camperbot / Second project called Camperbot, introduces the Camperbot character and features.  
-- **pet-adoption.html** → پروژه Debug a Pet Adoption Page / Debug a Pet Adoption Page project, fixes issues and demonstrates HTML attributes usage.
+- **index.html**  
+  Main page of the project. Includes a basic curriculum outline and an introduction to HTML, CSS, and JavaScript.
 
-## توضیحات بیشتر / Additional Notes
+- **camperbot.html**  
+  Camperbot project. Introduces the Camperbot character and basic HTML structure.
 
-این ریپوزیتوری برای تمرین و یادگیری HTML ایجاد شده است.  
-This repository is created for practice and learning HTML.  
+- **cat-photo-app.html**  
+  Cat Photo App project from FreeCodeCamp.  
+  Completed all 42 steps and includes semantic HTML elements, lists, images, links, and basic accessibility practices.
 
-هر زمان فایل جدید اضافه شد، README.md آپدیت می‌شود تا توضیحات جدید اضافه شود.  
-Whenever a new file is added, README.md will be updated with new descriptions.
+## Notes
+
+- This repository is created for **learning and practice purposes**.
+- Each file represents progress through different FreeCodeCamp lessons.
+- Whenever a new exercise or project is completed, this README will be updated.
+
+---
+
+## فارسی
+
+این ریپوزیتوری شامل تمرین‌های **Basic HTML من از FreeCodeCamp** است.  
+هدف از این پروژه تمرین HTML و ساخت پایه‌ی قوی برای توسعه وب است.
+
+### فایل‌ها
+
+- **index.html**  
+  صفحه اصلی پروژه و معرفی اولیه HTML، CSS و JavaScript.
+
+- **camperbot.html**  
+  پروژه Camperbot برای تمرین ساختار پایه HTML.
+
+- **cat-photo-app.html**  
+  پروژه Cat Photo App از FreeCodeCamp که هر ۴۲ مرحله آن کامل شده است.
+
+### توضیحات
+
+- این ریپوزیتوری صرفاً برای **تمرین و یادگیری** ساخته شده است.
+- با اضافه شدن هر فایل جدید، README به‌روزرسانی می‌شود.
